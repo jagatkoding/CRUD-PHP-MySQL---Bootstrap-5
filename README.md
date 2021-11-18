@@ -1,6 +1,6 @@
 # CRUD-PHP-MySQL---Bootstrap-5
 Create Read Update and Delete using Native PHP, MySQL, Bootstrap 5
-Pengembangan menggunakan OS Windows 8.1
+- Pengembangan menggunakan OS Windows 8.1
 
 Tool:
 - Sublime Text
